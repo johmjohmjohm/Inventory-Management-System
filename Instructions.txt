@@ -1,0 +1,9 @@
+Welcome to the Inventory Management System
+
+To use the system here's a few simple instructions that you can follow.
+Press 1 to add a new product item, you can add it's Stock ID, name, and quantity.
+Press 2 to update the item that you added. To do that you have to search by its Stock ID. With this, you can rename your product item, change it's stock ID, or change it's quantity depending on how many was bought and added.
+Press 3 to delete the item that you added, to do this you just simply add the Stock ID.
+Press 4 to search a specific item that you added, all you have to do is input the Stock ID of the item that you want to see.
+Press 5 to Display all the items that you have added in the database. 
+Press 6 to save and exit.
